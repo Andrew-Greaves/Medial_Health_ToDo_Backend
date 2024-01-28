@@ -1,0 +1,184 @@
+[
+  {
+    "id": "3f5b4d60-2f96-4c0a-b65a-61a3bfeef0e5",
+    "title": "Task 1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "dueDate": "2023-06-10",
+    "assignee": {
+      "userId": "1",
+      "displayName": "John Doe"
+    },
+    "priorityLevel": "high",
+    "notes": "This task requires immediate attention.",
+    "status": "pending"
+  },
+  {
+    "id": "2e5b7b9d-3a9d-4f51-b72d-1e1be617c1e9",
+    "title": "Task 2",
+    "description": "Pellentesque habitant morbi tristique senectus et...",
+    "dueDate": "2023-06-12",
+    "assignee": {
+      "userId": "2",
+      "displayName": "Jane Smith"
+    },
+    "priorityLevel": "medium",
+    "notes": "",
+    "status": "in progress"
+  },
+  {
+    "id": "4a5c9f7e-1d23-41ab-9cb9-64d55ab1368e",
+    "title": "Task 3",
+    "description": "Vestibulum consectetur elit sit amet risus consequat...",
+    "dueDate": "2023-06-15",
+    "assignee": {
+      "userId": "1",
+      "displayName": "John Doe"
+    },
+    "priorityLevel": "low",
+    "notes": "Remember to gather all the required documents.",
+    "status": "pending"
+  },
+  {
+    "id": "9d2fe6c5-8f8c-41ef-a0ff-b3ebe1edfd10",
+    "title": "Task 4",
+    "description": "Curabitur at mauris varius, placerat lacus at...",
+    "dueDate": "2023-06-11",
+    "assignee": {
+      "userId": "3",
+      "displayName": "Alice Johnson"
+    },
+    "priorityLevel": "high",
+    "notes": "This task is critical and must be completed by the due date.",
+    "status": "completed"
+  },
+  {
+    "id": "1a4d3a29-61f8-42ae-9865-13e8a3fc3cfe",
+    "title": "Task 5",
+    "description": "Donec efficitur nibh vitae augue laoreet, nec aliquet...",
+    "dueDate": "2023-06-14",
+    "assignee": {
+      "userId": "2",
+      "displayName": "Jane Smith"
+    },
+    "priorityLevel": "medium",
+    "notes": "",
+    "status": "completed"
+  },
+  {
+    "id": "39ba93c8-1a70-4e02-979e-2f5f3de55f8d",
+    "title": "Task 6",
+    "description": "Fusce a massa non orci aliquam finibus.",
+    "dueDate": "2023-06-13",
+    "assignee": {
+      "userId": "3",
+      "displayName": "Alice Johnson"
+    },
+    "priorityLevel": "low",
+    "notes": "",
+    "status": "pending"
+  },
+  {
+    "id": "79e3cc9f-6e01-45e5-a95f-9e9512e0c75e",
+    "title": "Task 7",
+    "description": "Nulla sit amet purus ut nisi varius scelerisque sed...",
+    "dueDate": "2023-06-16",
+    "assignee": {
+      "userId": "1",
+      "displayName": "John Doe"
+    },
+    "priorityLevel": "medium",
+    "notes": "",
+    "status": "completed"
+  },
+  {
+    "id": "1fbf26b9-67f9-4a9e-bdcf-c4736f4a27d9",
+    "title": "Task 8",
+    "description": "Vestibulum pharetra mi eget diam scelerisque, sed...",
+    "dueDate": "2023-06-09",
+    "assignee": {
+      "userId": "2",
+      "displayName": "Jane Smith"
+    },
+    "priorityLevel": "low",
+    "notes": "",
+    "status": "completed"
+  },
+  {
+    "id": "896043f0-9a34-402e-82e0-4ebe05e1a50a",
+    "title": "Task 9",
+    "description": "Morbi facilisis neque id turpis rutrum, eu malesuada...",
+    "dueDate": "2023-06-17",
+    "assignee": {
+      "userId": "3",
+      "displayName": "Alice Johnson"
+    },
+    "priorityLevel": "high",
+    "notes": "",
+    "status": "in progress"
+  },
+  {
+    "id": "5cbc1d9f-2870-497f-8f44-a1b5d130cde2",
+    "title": "Sweep",
+    "description": "",
+    "dueDate": "2024-01-27",
+    "assignee": {
+      "userId": "3",
+      "displayName": "Alice Johnson"
+    },
+    "priorityLevel": "high",
+    "notes": "",
+    "status": "pending"
+  },
+  {
+    "id": "b560a453-d326-4c01-8d51-0e1633a5a182",
+    "title": "Wash Dishes",
+    "description": "",
+    "dueDate": "2024-01-30",
+    "assignee": {
+      "userId": "1",
+      "displayName": "John Doe"
+    },
+    "priorityLevel": "high",
+    "notes": "",
+    "status": "completed"
+  },
+  {
+    "id": "fad96eda-98da-4f97-8179-ebc0717dd387",
+    "title": "Vacuum",
+    "description": "",
+    "dueDate": "2024-01-27",
+    "assignee": {
+      "userId": "1",
+      "displayName": "John Doe"
+    },
+    "priorityLevel": "low",
+    "notes": "",
+    "status": "completed"
+  },
+  {
+    "id": "317aac87-d3f3-4b25-8900-67b4d4354f30",
+    "title": "Change tire",
+    "description": "",
+    "dueDate": "2022-05-17",
+    "assignee": {
+      "userId": "1",
+      "displayName": "John Doe"
+    },
+    "priorityLevel": "high",
+    "notes": "",
+    "status": "canceled"
+  },
+  {
+    "id": "a8e57be3-33df-48f9-a3b6-fa732d4c42df",
+    "title": "Hire Chef",
+    "description": "Halal Chef",
+    "dueDate": "2024-01-30",
+    "assignee": {
+      "userId": "4",
+      "displayName": "Jane Foster"
+    },
+    "priorityLevel": "low",
+    "notes": "",
+    "status": "pending"
+  }
+]
